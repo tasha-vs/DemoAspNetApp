@@ -1,8 +1,8 @@
 # DemoAspNetApp
 Demo code for Asp.net Core App with tests
 
-Name:                   Tasha Vollmer-Selby
-Author (If not my own): Richa Panjabi
+Name:                   Tasha Vollmer-Selby,
+Author (If not my own): Richa Panjabi,
 Date:                   28/07/2020
 
 Comments:
